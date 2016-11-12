@@ -1,4 +1,5 @@
 html, body {
+  background-color: pink;
 color: red;
   font-family: comic-sans;
   text-align: center;
@@ -8,7 +9,7 @@ color: red;
 }
 
 h1 {
-color: orange;
+color: green;
 font-family: comic-sans;
   text-align: center;
   font-size: 48px;
